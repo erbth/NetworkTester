@@ -1,0 +1,6 @@
+# objects
+server
+client
+
+# vi *.swp files
+*.swp
